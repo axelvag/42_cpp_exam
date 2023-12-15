@@ -2,7 +2,7 @@
 3 Modules in C++
 
 :one: Warlock - [Subject Text](#Subject-Module-One)
-[Project 00](#--------------------------------------PROJECT-00--------------------------------------)
+
 :two: Question 1 and Aspell, Atarget, Dummy and Fwoosh - [Subject Text](#Subject-Module-Two)
 
 :three: Question 1, Question 2 and BrickWall, Fireball, Polymorph, SpellBook and TargetGenerator - [Subject Text](#Subject-Module-Three)
@@ -15,7 +15,6 @@
 
 <br>
 
-### --------------------------------------PROJECT 00--------------------------------------
 # Subject Module One
 
 ```
