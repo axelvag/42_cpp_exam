@@ -17,6 +17,7 @@
 
 # Subject Module One
 
+```
 Assignment name  : cpp_module_00
 Expected files   : Warlock.cpp Warlock.hpp
 --------------------------------------------------------------------------------
@@ -98,9 +99,12 @@ Jack: I am Jack, the Mighty!$
 Jack: My job here is done!$
 Richard: My job here is done!$
 ~$
+```
+
 
 # Subject Module Two
 
+```
 Assignment name  : cpp01_02
 Expected files   : Warlock.cpp Warlock.hpp
                    ASpell.hpp ASpell.cpp
@@ -195,9 +199,11 @@ Richard: This looks like another boring day.$
 Richard: I am Richard, the Titled!$
 Target Practice Dummy has been fwooshed!$
 Richard: My job here is done!$
+```
 
 # Subject Module Three
 
+```
 Assignment name  : cpp_module_02
 Expected files   : Warlock.cpp Warlock.hpp
                    ASpell.hpp ASpell.cpp
@@ -284,7 +290,7 @@ Inconspicuous Red-brick Wall has been turned into a critter!$
 Inconspicuous Red-brick Wall has been burnt to a crisp!$
 Richard: My job here is done!$
 ~$
-
+```
 
 # Exam Practice Tool
 
