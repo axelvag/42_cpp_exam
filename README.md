@@ -15,6 +15,13 @@
 
 <br>
 
+# Starting
+
+Clone this repo
+```
+$ git clone https://github.com/axelvag/42_cpp_exam
+```
+
 # Subject Module One
 
 ```
